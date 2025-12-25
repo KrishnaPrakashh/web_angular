@@ -1,6 +1,4 @@
-Absolutely! Here’s a single-page, clean README.md you can paste directly into your project. It’s concise, includes all necessary Angular project info, and removes any merge conflict markers.
-Copy code
-Markdown
+
 # Websitepro
 
 This Angular project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.0.3.
